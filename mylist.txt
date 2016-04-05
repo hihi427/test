@@ -1,3 +1,57 @@
 [Adblock Plus 2.0]
 17ce.com##div#bottom_to_top
 17ce.com##div.jiathis_style
+acfun.tudou.com##*[class="info-hint"]
+acfun.tv##*[class="info-hint"]
+acfun.tv##*[class="user-message-count"]
+avmo.pw##a[href="https://avso.pw/"]
+avmo.pw##a[href="https://avxo.pw/"]
+avmo.pw##h4
+avmo.pw##img[width="728"][height="90"]
+avso.pw##a[href="https://avmo.pw/"]
+avso.pw##a[href="https://avxo.pw/"]
+avso.pw##h4
+avso.pw##img[width="728"][height="90"]
+avxo.pw##a[href="https://avmo.pw/"]
+avxo.pw##a[href="https://avso.pw/"]
+avxo.pw##h4
+avxo.pw##img[width="728"][height="90"]
+bbs.3dmgame.com##div#category_437
+bilibili.com##a[href="/square"]
+bilibili.com##div#b_live
+bilibili.com##div.elec-charging
+bilibili.com##div.index-nav
+bilibili.com##div.menu-r
+bilibili.com##div.share
+bilibili.com##div.v_small
+bilibili.com##div[class="b-section-bodyb-section-bangumi"]
+bilibili.com##div[class="block right"]
+bilibili.com##div[class="blockright"]
+bilibili.com##div[class="bpoints-win to-bangumi"]
+bilibili.com##div[class="ct stm-tag-push-wrp"]
+bilibili.com##div[class="partner"]
+bilibili.com##div[class="sec"][style="padding-bottom: 18px;"]
+bilibili.com##div[data-name="幻想战姬"]
+bilibili.com##li[class="b-gc"]
+bilibili.com##li[class="m-i m-i-live m-i-last"]
+bilibili.com##li[class="m-im-i-square"]
+btio.pw##a[href="https://avmo.pw/"]
+btio.pw##a[href="https://avso.pw/"]
+btio.pw##a[href="https://avxo.pw/"]
+cnbeta.com##div#mask
+http://i0.hdslb.com/group1/M00/B7/04/oYYBAFb9-v-AM77EAAGVfFkyyUI589.jpg
+http://player.bumimi.com/all.gif
+http://static.hdslb.com/elec_2/dist/css/elec.css
+http://static.hdslb.com/elec_2/dist/js/elec.js
+javhub.net##div#at4-share
+javhub.net##div#r18_banner
+pt80.net##br
+pt80.net##div[style="text-align:center;"]
+pt80.net##td[align="left"]
+|*/pic/fgr/dm*_*.swf$domain=dm530.com|6998.cc|duapp.com
+||a9av.me/image/vip/vipad.swf
+||apps.id.net/$popup
+||dnvod.eu/upload/2016/201604021513201305764.jpg
+||i0.hdslb.com/group1/M00/6E/82/oYYBAFbZK8aAKQP2AAHhByHc_1E634.jpg
+||i0.hdslb.com/group1/M00/B6/D2/oYYBAFbrvD2AGBtwAACWfnw9lQw040.jpg
+||javhub.net/img/r.jpg
