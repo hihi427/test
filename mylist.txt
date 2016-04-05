@@ -55,3 +55,11 @@ pt80.net##td[align="left"]
 ||i0.hdslb.com/group1/M00/6E/82/oYYBAFbZK8aAKQP2AAHhByHc_1E634.jpg
 ||i0.hdslb.com/group1/M00/B6/D2/oYYBAFbrvD2AGBtwAACWfnw9lQw040.jpg
 ||javhub.net/img/r.jpg
+@@||adnostri.com^$script,domain=videomega.tv
+@@||ads.exoclick.com/ads.js$domain=jav24.tv
+@@||adv4biz.com^$script,domain=videomega.tv
+@@||avmo.pw^$generichide
+@@||avso.pw^$generichide
+@@||avxo.pw^$generichide
+@@||popads.net^$domain=pornve.com
+@@||syndication.exoclick.com^$domain=jav24.tv
