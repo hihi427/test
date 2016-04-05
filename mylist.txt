@@ -1,4 +1,2 @@
 [Adblock Plus 2.0]
-! Title: [Put a title here (optional)]
-! Expires: [It's the update frequency: put a number of days here, for example "5 days" (optional)]
-! Homepage: [Put the URL of a webpage here (optional)]
+
