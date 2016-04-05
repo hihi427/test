@@ -1,8 +1,4 @@
-@@||adnostri.com^$script,domain=videomega.tv
-@@||ads.exoclick.com/ads.js$domain=jav24.tv
-@@||adv4biz.com^$script,domain=videomega.tv
-@@||avmo.pw^$generichide
-@@||avso.pw^$generichide
-@@||avxo.pw^$generichide
-@@||popads.net^$domain=pornve.com
-@@||syndication.exoclick.com^$domain=jav24.tv
+[Adblock Plus 2.0]
+! Title: [Put a title here (optional)]
+! Expires: [It's the update frequency: put a number of days here, for example "5 days" (optional)]
+! Homepage: [Put the URL of a webpage here (optional)]
