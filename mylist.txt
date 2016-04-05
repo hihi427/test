@@ -1,6 +1,12 @@
-[Adblock Plus 2.0]
-! Version: 1
-! Title: My List
+! Title: AakList (Anti-Adblock Killer)
+! Author: hihi427
+! Version: 1.0
+! Expires: 1 days
+! Homepage: https://github.com/hihi427/test
+! Twitter: https://twitter.com/antiadbkiller
+! WritingRules: https://adblockplus.org/filters
+! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+! RegExpVisualizer http://www.regexper.com/
 17ce.com##div#bottom_to_top
 17ce.com##div.jiathis_style
 @@||adnostri.com^$script,domain=videomega.tv
