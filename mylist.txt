@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: My List
 17ce.com##div#bottom_to_top
 17ce.com##div.jiathis_style
 @@||adnostri.com^$script,domain=videomega.tv
