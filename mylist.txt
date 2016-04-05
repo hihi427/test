@@ -1,12 +1,24 @@
-! Title: AakList (Anti-Adblock Killer)
-! Author: hihi427
-! Version: 1.0
-! Expires: 1 days
-! Homepage: https://github.com/hihi427/test
-! Twitter: https://twitter.com/antiadbkiller
-! WritingRules: https://adblockplus.org/filters
-! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! RegExpVisualizer http://www.regexper.com/
+[Adblock Plus 2.0]
+! Checksum: V8crqPeABDSJ1tCddJf41A
+! Version: 201604051735
+! Title: CJX's Annoyance List
+! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
+! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
+! Last modified: 2016/04/05 17:35 +0800
+! Expires: 4 days (update frequency)
+! License: http://creativecommons.org/licenses/by/3.0/
+! Email: cjxlist@gmail.com
+! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
+!
+!--------------------------General blocking filters---------------------------!
+=Ad_ZPlusGoods&
+/source/plugin/yw_alertlogin/*
+-bobo_recommend_
+!------------------------General element hiding rules-------------------------!
+###windlocation
+###qrcodeDownloadBar
+###login_wp.foot_flwp
+##IFRAME[style^="border: 0px none; display: block; width: 120px; position: fixed; top: 0px; z-index:"]
 17ce.com##div#bottom_to_top
 17ce.com##div.jiathis_style
 @@||adnostri.com^$script,domain=videomega.tv
