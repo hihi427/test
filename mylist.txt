@@ -63,7 +63,6 @@ http://player.bumimi.com/all.gif
 http://static.hdslb.com/elec_2/dist/css/elec.css
 http://static.hdslb.com/elec_2/dist/js/elec.js
 !javhub
-@@||javhub.net^$generichide
 javhub.net##div#at4-share
 javhub.net##div#r18_banner
 !pt80音乐
