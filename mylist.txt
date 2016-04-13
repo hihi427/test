@@ -16,7 +16,7 @@ avxo.pw##a[href="https://avmo.pw/"]
 avxo.pw##a[href="https://avso.pw/"]
 avxo.pw##h4
 avxo.pw##img[width="728"][height="90"]
-bbs.3dmgame.com##div#category_437
+
 bilibili.com##a[href="/square"]
 bilibili.com##div#b_live
 bilibili.com##div.elec-charging
