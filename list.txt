@@ -65,6 +65,7 @@ http://static.hdslb.com/elec_2/dist/js/elec.js
 !javhub
 javhub.net##div#at4-share
 javhub.net##div#r18_banner
+@@||javhub.net^$elemhide^$generichide
 !pt80音乐
 pt80.net##br
 pt80.net##div[style="text-align:center;"]
