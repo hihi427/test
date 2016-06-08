@@ -1,7 +1,7 @@
 // http://pac.itzmx.com
 var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
-var p = "PROXY 127.0.0.1:2046;";
+var p = "SOCKS5 127.0.0.1:2046;";
 var dom = {
   "share.dmhy.org": 1,
   "archeage.jp": 1,
