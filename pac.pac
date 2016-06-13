@@ -1,8 +1,9 @@
 // http://pac.itzmx.com
 var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
-var p = "SOCKS5 127.0.0.1:2046;";
+var p = "PROXY pac.tianti.io:25;";
 var dom = {
+  "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
   "share.dmhy.org": 1,
   "archeage.jp": 1,
