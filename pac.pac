@@ -1,7 +1,7 @@
 // http://pac.itzmx.com
 var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
-var p = "PROXY pac.tianti.io:25;";
+var p = "PROXY alalbb.top:25;";
 var dom = {
   "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
