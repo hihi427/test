@@ -1,7 +1,7 @@
 // http://pac.itzmx.com
 var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
-var p = "PROXY alalbb.top:25;";
+var p = "PROXY 104.140.14.136:25;";
 var dom = {
   "gfw.press":1,
   "tumblr.com": 1,
