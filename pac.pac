@@ -3,6 +3,7 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 var p = "PROXY 104.140.14.136:25;";
 var dom = {
+  "www.geekr.club":1,
   "gfw.press":1,
   "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
