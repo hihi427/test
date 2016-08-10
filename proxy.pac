@@ -3,7 +3,6 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 var p = "SOCKS5 127.0.0.1:2046;";
 var dom = {
-  "www.geekr.club":1,
   "gfw.press":1,	
   "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
