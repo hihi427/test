@@ -1,16 +1,17 @@
 // http://pac.itzmx.com
-var direct = 'DIRECT;';
-var hasOwnProperty = Object.hasOwnProperty;
-var p = "SOCKS5 127.0.0.1:2046;";
-var dom = {
-  "gfw.press":1,	
+
+var proxy = "SOCKS5 127.0.0.1:2046;";
+var domains = {
+  "gfw.press":1,
   "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
+  "download.kolor.com": 1,
+  "messenger.com": 1,
+  "tumblr.com": 1,
   "share.dmhy.org": 1,
   "archeage.jp": 1,
   "blogspot.jp": 1,
   "bbc.com": 1,
-  "ddparis.com": 1,
   "ero-video.net": 1,
   "onedrive.live.com": 1,
   "blogsmithmedia.com": 1,
@@ -40,7 +41,6 @@ var dom = {
   "flashfxp.com": 1,
   "nicoseiga.jp": 1,
   "smilevideo.jp": 1,
-  "nimg.jp": 1,
   "nyaa.se": 1,
   "p.jwpcdn.com": 1, 
   "jwplayer.com": 1, 
@@ -1468,7 +1468,6 @@ var dom = {
   "nf.id.au": 1, 
   "nga.mil": 1, 
   "ngensis.com": 1, 
-  "nicovideo.jp": 1, 
   "nighost.org": 1, 
   "ning.com": 1, 
   "nintendium.com": 1, 
@@ -2463,6 +2462,7 @@ var dom = {
   "wujieliulan.com": 1, 
   "wukangrui.net": 1, 
   "wwitv.com": 1, 
+  "www.nicovideo.jp": 1, 
   "wzyboy.im": 1, 
   "x-art.com": 1, 
   "x-berry.com": 1, 
@@ -2597,17 +2597,19 @@ var dom = {
   "zsrhao.com": 1, 
   "zuo.la": 1, 
   "zuola.com": 1, 
-  "zvereff.com": 1,
-  "t66y.com": 1,
-  "zyzc9.com": 1,
-  "packagecontrol.io": 1,
-  "tumblr.com": 1
+  "zvereff.com": 1, 
+  "zyzc9.com": 1
 };
+
+var direct = 'DIRECT;';
+
+var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     if (host == "www.haosou.com") {
         return "PROXY 360.itzmx.com:80";
     }
+
     var suffix;
     var pos = host.lastIndexOf('.');
     while(1) {
@@ -2615,13 +2617,13 @@ function FindProxyForURL(url, host) {
         if (suffix == "360.cn")
             if (url.indexOf('http://') == 0)
                 return "PROXY 360.itzmx.com:80";
-        if (hasOwnProperty.call(dom, suffix)) {
-            return p;
+        if (hasOwnProperty.call(domains, suffix)) {
+            return proxy;
         }
         if (pos <= 0) {
             break;
         }
         pos = host.lastIndexOf('.', pos - 1);
     }
-		return direct
-};
+    return direct;
+}
