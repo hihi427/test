@@ -1,7 +1,6 @@
 // http://pac.itzmx.com
 
 var proxy = "PROXY server01.pac.itzmx.com:25;";
-
 var domains = {
   "gfw.press":1,
   "tumblr.com": 1,
