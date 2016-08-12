@@ -2,6 +2,7 @@
 
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 var domains = {
+  "dl.google.com":1,
   "gfw.press":1,
   "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
