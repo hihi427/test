@@ -2,6 +2,8 @@
 
 var proxy = "PROXY 127.0.0.1:8118;";
 var domains = {
+  "stormss.online":1,
+  "shadow.bydisk.com":1,
   "dl.google.com":1,
   "gfw.press":1,
   "tumblr.com": 1,
