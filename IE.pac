@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "HTTP 127.0.0.1:8118;";
+var proxy = "PROXY 127.0.0.1:8118;";
 var domains = {
   "dl.google.com":1,
   "gfw.press":1,
