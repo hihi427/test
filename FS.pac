@@ -1,7 +1,8 @@
 // http://pac.itzmx.com
 
-var proxy = "SOCKS5 127.0.0.1:9876;";
+var proxy = "HTTP 127.0.0.1:8118;";
 var domains = {
+  "dl.google.com":1,
   "gfw.press":1,
   "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
