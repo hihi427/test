@@ -2,6 +2,7 @@
 
 var proxy = "SOCKS5 127.0.0.1:2046;";
 var domains = {
+  "www.4realtorrentz.com":1,
   "stormss.online":1,
   "shadow.bydisk.com":1,
   "dl.google.com":1,
