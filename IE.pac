@@ -1,5 +1,5 @@
 // http://pac.itzmx.com
-var proxy = "PROXY 45.32.26.50:25;";
+var proxy = "PROXY 107.167.28.126:25;";
 var domains = {
   "gfw.press":1,
   "online.pcmastercard.ca": 1,
