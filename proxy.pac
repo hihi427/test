@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "STOCKS5 127.0.0.1:2046;";
+var proxy = "SOCKS5 127.0.0.1:2046;";
 var domains = {
   "gfw.press":1,
   "online.pcmastercard.ca": 1,
