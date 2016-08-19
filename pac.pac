@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY 107.167.28.126:21;";
+var proxy = "PROXY 107.167.28.126:25;";
 var domains = {
   "bitsnoop.com":1,
   "www.4realtorrentz.com":1,
