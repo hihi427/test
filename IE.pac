@@ -2607,7 +2607,6 @@ function FindProxyForURL(url, host) {
     if (host == "www.haosou.com") {
         return "PROXY 360.itzmx.com:80";
     }
-
     var suffix;
     var pos = host.lastIndexOf('.');
     while(1) {
