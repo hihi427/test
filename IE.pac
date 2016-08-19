@@ -2,13 +2,7 @@
 
 var proxy = "PROXY 127.0.0.1:8118;";
 var domains = {
-  "bitsnoop.com":1,
-  "www.4realtorrentz.com":1,
-  "stormss.online":1,
-  "shadow.bydisk.com":1,
-  "dl.google.com":1,
   "gfw.press":1,
-  "tumblr.com": 1,
   "online.pcmastercard.ca": 1,
   "download.kolor.com": 1,
   "messenger.com": 1,
