@@ -6,6 +6,7 @@ var domains = {
   "online.pcmastercard.ca": 1,
   "download.kolor.com": 1,
   "messenger.com": 1,
+  "tumblr.com": 1,
   "share.dmhy.org": 1,
   "archeage.jp": 1,
   "blogspot.jp": 1,
