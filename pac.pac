@@ -3,7 +3,6 @@
 var proxy = "PROXY 45.32.26.50:25;";
 
 var domains = {
-  "github-windows.s3.amazonaws.com":1,
   "gfw.press":1,
   "online.pcmastercard.ca": 1,
   "download.kolor.com": 1,
