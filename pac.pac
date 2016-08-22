@@ -1,10 +1,12 @@
 // http://pac.itzmx.com
 
+
+
 var proxy0 = "PROXY 45.32.26.50:25;";
 var proxy1 = "PROXY 158.69.196.53:25;";
 var proxy2 = "PROXY 208.98.38.94:25;";
 var proxy3 = "PROXY 107.167.28.126:25;";
-
+var proxyself = "PROXY 139.162.30.235:25;";
 
 var domains = {
   "gfw.press":1,
@@ -2622,7 +2624,7 @@ function FindProxyForURL(url, host) {
             if (url.indexOf('http://') == 0)
                 return "PROXY 360.itzmx.com:80";
         if (hasOwnProperty.call(domains, suffix)) {
-            return proxy0;
+            return proxyself;
         }
         if (pos <= 0) {
             break;
