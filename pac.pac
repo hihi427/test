@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY root:pac.itzmx.com@45.32.26.50:25;";
+var proxy = "PROXY 45.32.26.50:25;";
 var domains = {
   "github-windows.s3.amazonaws.com":1,
   "gfw.press":1,
