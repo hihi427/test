@@ -2625,7 +2625,7 @@ function FindProxyForURL(url, host) {
             if (url.indexOf('http://') == 0)
                 return "PROXY 360.itzmx.com:80";
         if (hasOwnProperty.call(domains, suffix)) {
-            return proxy5;
+            return proxy4;
         }
         if (pos <= 0) {
             break;
