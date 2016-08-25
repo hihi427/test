@@ -7,7 +7,7 @@ var proxy1 = "PROXY 158.69.196.53:25;";
 var proxy2 = "PROXY 208.98.38.94:25;";
 var proxy3 = "PROXY 107.167.28.126:25;";
 var proxy4 = "PROXY 61.221.75.161:25;";
-var proxy5 = "SOCKS5 61.221.75.161:1080;";
+
 
 var domains = {
   "gfw.press":1,
@@ -2625,7 +2625,7 @@ function FindProxyForURL(url, host) {
             if (url.indexOf('http://') == 0)
                 return "PROXY 360.itzmx.com:80";
         if (hasOwnProperty.call(domains, suffix)) {
-            return proxy5;
+            return proxy4;
         }
         if (pos <= 0) {
             break;
