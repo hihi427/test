@@ -1,6 +1,7 @@
 // http://pac.itzmx.com
 var proxy = "PROXY 127.0.0.1:8118;";
 var domains = {
+  "github-windows.s3.amazonaws.com": 1,
   "gfw.press":1,
   "online.pcmastercard.ca": 1,
   "download.kolor.com": 1,
