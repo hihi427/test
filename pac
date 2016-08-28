@@ -2,6 +2,8 @@ var direct = 'DIRECT';
 var httpProxy = 'PROXY 60.249.100.177:25; DIRECT';
 
 var domainList = [
+"45.32.44.97",
+"splashtop.com",
 "391la.com",
 "cefund.com",
 "g8f8.com",
