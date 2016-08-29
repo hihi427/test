@@ -2,6 +2,8 @@ var direct = 'DIRECT';
 var httpProxy = 'PROXY 60.249.100.177:25; DIRECT';
 
 var domainList = [
+"www.dmm.co.jp",
+"www.dmm.com",
 "exhentai.org",
 "45.32.44.97",
 "splashtop.com",
