@@ -1,7 +1,12 @@
 var direct = 'DIRECT';
 var httpProxy = 'PROXY 60.249.100.177:21; DIRECT';
 
+
+
+
 var domainList = [
+"www.dream4ever.org",
+"bbs.et8.net",
 "exhentai.org",
 "45.32.44.97",
 "splashtop.com",
