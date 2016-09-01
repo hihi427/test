@@ -1,5 +1,5 @@
 var direct = 'DIRECT';
-var httpProxy = 'PROXY 60.249.100.177:25; DIRECT';
+var httpProxy = 'PROXY 60.249.100.177:21; DIRECT';
 
 var domainList = [
 "www.dmm.co.jp",

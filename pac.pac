@@ -6,7 +6,7 @@ var proxy0 = "PROXY 45.32.26.50:25;";
 var proxy1 = "PROXY 158.69.196.53:25;";
 var proxy2 = "PROXY 208.98.38.94:25;";
 var proxy3 = "PROXY 107.167.28.126:25;";
-var proxy4 = "PROXY 61.221.75.161:25;";
+var proxy4 = "PROXY 61.221.75.161:21;";
 
 
 var domains = {
