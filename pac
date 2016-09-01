@@ -1,5 +1,5 @@
 var direct = 'DIRECT';
-var httpProxy = 'PROXY 60.249.100.177:80; DIRECT';
+var httpProxy = 'PROXY 60.249.100.177:21; DIRECT';
 
 var domainList = [
 "exhentai.org",
