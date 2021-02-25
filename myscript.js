@@ -1995,7 +1995,7 @@ var getViewer = function(prevChapter, nextChapter) {
     var ratioZoom = (document.documentElement.scrollTop || document.body.scrollTop)/(document.documentElement.scrollHeight || document.body.scrollHeight);
     var curImage = getCurrentImage();
     if(!lastZoom) {
-      lastZoom = originalZoom = Math.round(curImage.clientWidth / window.innerWidth * 100);
+      lastZoom = originalZoom = Math.round(curImage.clientWidth / window.innerWidth * 60);
     }
     var zoom = lastZoom;
     if(action === '+') zoom += 5;
